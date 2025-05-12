@@ -8,7 +8,7 @@ A full-stack **Task Management Application** built with **Django REST Framework*
 > 🛠 **Tech Stack**  
 > **Backend**: Django 5.2.1, SQLite  
 > **Frontend**: React, Redux, Tailwind CSS  
-> **Database**: SQLite  
+> **Database**: Mysql  
 
 ---
 
